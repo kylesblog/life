@@ -5,5 +5,5 @@
 
 <a href="https://www.baidu.com" title="百度">百度</a>
 
-![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
+![这是绿豆饼](/images/绿豆饼.png "绿豆饼")
 
